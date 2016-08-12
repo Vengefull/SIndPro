@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="m1/src/main/java"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/aspectjweaver-1.8.6.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/classmate-1.1.0.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/disruptor-3.3.2.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/hibernate-validator-5.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/jboss-logging-3.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/jcl-over-slf4j-1.7.13.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/log4j-api-2.5.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/log4j-core-2.5.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/log4j-iostreams-2.5.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/log4j-jcl-2.5.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/log4j-slf4j-impl-2.5.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/log4j-web-2.5.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-data-commons-1.11.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-jdbc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-security-config-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-security-core-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-security-web-4.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-tx-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="m1/target/indexer/WEB-INF/lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="m1/target/classes"/>
+</classpath>
